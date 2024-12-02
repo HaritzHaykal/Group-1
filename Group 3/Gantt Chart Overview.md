@@ -15,6 +15,5 @@ gantt
    section FURTHER PROGRESS
         Brainstorming ideas and features to be included :c1, 2024-11-30, 1d
         Synthesize the informations gathered    :after c1, 2d
-        Sharing ideas on solutions   :after c1, 5d
-    
+        Sharing ideas on solutions   :after c1, 1d
 ```
