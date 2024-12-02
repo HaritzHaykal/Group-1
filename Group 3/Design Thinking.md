@@ -1,7 +1,7 @@
 ```mermaid
 mindmap
   root(Stages in 
-Design Thinking)
+Design Thinking for VRGoShuttle)
     )Empathize(
       [**Goal:** Understand users' problems and needs.     
 **Activity:** Conduct interviews, surveys, and observations to gather insights about how people use UTMShuttle Bus and what challenges they face.        
