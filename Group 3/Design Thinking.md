@@ -1,4 +1,5 @@
-***mermaid
+```mermaid
+mindmap
   root(Stages in 
 Design Thinking)
     )Empathize(
@@ -21,5 +22,5 @@ Design Thinking)
       [**Goal:** Validate solutions with real users.
       **Activities:** Conduct usability testing, gather feedback, and iterate on prototypes.
       **Example:** Test the prototype with a group of users, gather their feedback, and make necessary improvements.]
-
+```
 
