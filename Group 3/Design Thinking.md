@@ -1,4 +1,4 @@
-mermaid
+***mermaid
   root(Stages in 
 Design Thinking)
     )Empathize(
