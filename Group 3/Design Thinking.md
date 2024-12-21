@@ -3,7 +3,7 @@ mindmap
   root(Stages in 
 Design Thinking for VRGoShuttle)
     )1.Empathize(
-      [**Goal:** Understand users' problems and needs.     
+      [**Goal:** Understand the problems and needs of users.     
 **Activity:** Conduct interviews, surveys, and observations to gather insights about how people use UTMShuttle Bus and what challenges they face.        
 **Example:** Interview students to understand their pain points with current UTMShuttle Bus solutions.]
     )2.Define(
