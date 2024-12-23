@@ -24,7 +24,11 @@ section GoShuttle (Ideate)
         Overview of Ideate phase    :after d1, 2d
 section GoShuttle (Prototype)
         Researching and brainstorming prototype patterns :d1, 2024-12-13, 1d
-        Sketching and compiling ideas for prototypes :after d1, 1d
-        Overview of Prototype phase    :after d1, 2d
+        Sketching and compiling ideas for prototypes :after d1, 4d
+        Overview of Prototype phase    :after d1, 5d
+section GoShuttle (Testing)
+        Approaching UTM Students for review and testing :f1, 2024-12-19, 1d
+        Improving prototypes :after f1, 2d
+        Overview of Testing phase    :after f1, 3d
 
 ```
